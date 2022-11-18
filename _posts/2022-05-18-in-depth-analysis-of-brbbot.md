@@ -2,7 +2,7 @@
 title: "Digging into memory"
 classes: wide
 header:
-  teaser: /assets/images/forensics/Defcon_ctf_2019/logo.jpg
+  teaser:  "/assets/images/pinkpanther.jpg"
 ribbon: red
 description: "I’m solving memory forensics challenge with volatility2 framework from Defcon DFIR CTF 2019"
 categories:
