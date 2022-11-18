@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TOKA
+title: RY0D4N
 email: motawkkel.abdulrhman@gmail.com
 description: Hello guys
 twitter_username: ryodan0x
@@ -58,14 +58,14 @@ plugins:
 author:
   name   : "Motawkkel Abdulrhman"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Malware Analysis, Reverse Engineering  and MORE."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/ryodan0x"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
