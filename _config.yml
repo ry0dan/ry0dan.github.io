@@ -278,10 +278,6 @@ compress_html:
 
 
 # Defaults
-<<<<<<< HEAD
-=======
-
->>>>>>> 3b3704a70cdcc6596b5adc5adc38be653e5584e6
 markdown: kramdown
 highlighter: rouge
 lsi: false
@@ -299,10 +295,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-<<<<<<< HEAD
-=======
 
->>>>>>> 3b3704a70cdcc6596b5adc5adc38be653e5584e6
 defaults:
   # _posts
   - scope:
