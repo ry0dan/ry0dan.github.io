@@ -2,7 +2,7 @@
 title: "n00bz CTF 2022 writeups - RE"
 classes: wide
 header:
-  teaser: /assets/images/n00bz
+  teaser: /assets/images/n00bz.png
 ribbon: green
 description: "Writeups for all n00bz CTF 2022  RE challenges"
 categories:
