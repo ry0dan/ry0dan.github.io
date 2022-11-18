@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "eln0ty"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Abdallah Elnoty"
-description              : "Malware Analysis & Reverse Engineering"
+name                     : "Motawkkel Abdulrhman"
+description              : "Malware Analysis Professional, Digital Forensics Investigator"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,21 +102,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abdallah Elnoty"
+  name             : "Motawkkel Abdulrhman"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Malware Analysis & Reverse Engineering"
+  bio              : "Malware Analysis Professional, Digital Forensics Investigator"
   location         : "127.0.0.1"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:abdallahelnoty@gmail.com"
+      url: "mailto:motawkkel.abdulrhman@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/eln0ty"
+      url: "https://twitter.com/ryodan0x"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/eln0ty"
@@ -216,8 +216,6 @@ sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-<<<<<<< HEAD
-
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -280,7 +278,7 @@ compress_html:
 
 
 # Defaults
-=======
+
 markdown: kramdown
 highlighter: rouge
 lsi: false
@@ -299,7 +297,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   
->>>>>>> 4953ef5d57480de307e6cb856e6a24ef24b5b63b
 defaults:
   # _posts
   - scope:
