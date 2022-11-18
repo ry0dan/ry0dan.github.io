@@ -216,6 +216,7 @@ sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+<<<<<<< HEAD
 
 # Outputting
 permalink: /:categories/:title/
@@ -279,6 +280,26 @@ compress_html:
 
 
 # Defaults
+=======
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  
+>>>>>>> 4953ef5d57480de307e6cb856e6a24ef24b5b63b
 defaults:
   # _posts
   - scope:
