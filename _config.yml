@@ -279,7 +279,6 @@ compress_html:
 
 
 # Defaults
-=======
 markdown: kramdown
 highlighter: rouge
 lsi: false
