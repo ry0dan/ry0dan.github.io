@@ -216,6 +216,10 @@ sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 68533eec30023dc0b36885c6ba35b9e50547efe9
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -278,7 +282,10 @@ compress_html:
 
 
 # Defaults
+<<<<<<< HEAD
 
+=======
+>>>>>>> 68533eec30023dc0b36885c6ba35b9e50547efe9
 markdown: kramdown
 highlighter: rouge
 lsi: false
@@ -296,7 +303,11 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+<<<<<<< HEAD
   
+=======
+ 
+>>>>>>> 68533eec30023dc0b36885c6ba35b9e50547efe9
 defaults:
   # _posts
   - scope:
