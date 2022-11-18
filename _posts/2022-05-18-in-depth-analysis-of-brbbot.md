@@ -1,6 +1,9 @@
 ---
 title: "In-depth analysis of brbbot malware"
 last_modified_at: 2016-03-09T16:20:02-05:00
+classes: wide
+header:
+  teaser: /assets/images/pinkpanther.jpg
 description: "IcedID , also known as BokBot, was among one of the most active malware families and has been known for loading different types of payloads such as Cobalt Strike."
 categories:
   - Malware Analysis
