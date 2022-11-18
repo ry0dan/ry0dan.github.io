@@ -59,13 +59,8 @@ plugins:
 
 author:
   name   : "Motawkkel Abdulrhman"
-<<<<<<< HEAD
   avatar : "/assets/images/pinkpanther.jpg"
   bio    : "Cyber Secuity Analyst, Malware Analyst, Digital Forensics Investigator."
-=======
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Malware Analysis, Reverse Engineering  and MORE."
->>>>>>> 56b7e45fb136e62a49308e92c68749195ef8a1b5
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
