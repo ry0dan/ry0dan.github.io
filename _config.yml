@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "eln0ty"
+title                    : "Motawkkel Abdulrhman [ry0d4n]"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Motawkkel Abdulrhman"
@@ -282,10 +282,6 @@ compress_html:
 
 
 # Defaults
-<<<<<<< HEAD
-
-=======
->>>>>>> 68533eec30023dc0b36885c6ba35b9e50547efe9
 markdown: kramdown
 highlighter: rouge
 lsi: false
@@ -303,11 +299,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-<<<<<<< HEAD
-  
-=======
- 
->>>>>>> 68533eec30023dc0b36885c6ba35b9e50547efe9
 defaults:
   # _posts
   - scope:
