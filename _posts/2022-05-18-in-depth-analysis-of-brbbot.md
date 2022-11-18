@@ -1,15 +1,13 @@
 ---
-title: "In-depth analysis of brbbot malware"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title: "Digging into memory"
 classes: wide
 header:
-  teaser: /assets/images/pinkpanther.jpg
-description: "IcedID , also known as BokBot, was among one of the most active malware families and has been known for loading different types of payloads such as Cobalt Strike."
+  teaser: /assets/images/forensics/Defcon_ctf_2019/logo.jpg
+ribbon: red
+description: "I’m solving memory forensics challenge with volatility2 framework from Defcon DFIR CTF 2019"
 categories:
-  - Malware Analysis
-ribbon: DodgerBlue
-tags:
-  - BRBBOT
+  - Forensics
+toc: false
 ---
 Sample:
 ```
