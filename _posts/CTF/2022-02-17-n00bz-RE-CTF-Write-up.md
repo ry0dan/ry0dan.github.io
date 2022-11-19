@@ -14,6 +14,7 @@ toc: true
 # Challenge 01- xorxorxor
 
 this is an ELF file that asks for the flag when we execute it:
+
 ![Screenshot1](/assets/images/CTF/n00bz2022/nr1.png)
 
 let's use IDA to decompile and see how the flag is checked.
@@ -441,9 +442,11 @@ Description: I wanna reach a million cookies!
 HMMMMMMMMMMM, but I can't click a million time on the cookie!
 
 when I run the binary for the first time I noticed that it drops an excel file that contains the statistics for the player.
+
 ![Screenshot1](/assets/images/CTF/n00bz2022/nr4.png)
 
 I immediately thought of changing the clicks value to a large number then re-opened the game.
+
 ![Screenshot1](/assets/images/CTF/n00bz2022/nr5.png)
 
 and fair enought! I got a base64 encrypted flag!
