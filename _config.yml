@@ -105,7 +105,7 @@ author:
   name             : "Motawkkel Abdulrhman"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Malware Analysis Professional, Digital Forensics Investigator"
-  location         : "127.0.0.1"
+  location         : "EIP"
   email            :
   links:
     - label: "Email"
@@ -119,16 +119,13 @@ author:
       url: "https://twitter.com/ryodan0x"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/eln0ty"
+      url: "https://web.facebook.com/mutawakkil.don/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/eln0ty"
+      url: "https://www.linkedin.com/in/motawkkel-abdulrhman-a2263a1b2/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/eln0ty"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/ry0dan"
 
 # Site Footer
 footer:
