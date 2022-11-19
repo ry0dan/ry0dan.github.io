@@ -7,6 +7,8 @@ ribbon: green
 description: "Writeups for all n00bz CTF 2022  RE challenges"
 categories:
   - CTF
+tags:
+  - Reverse Engineering
 toc: true
 ---
 
