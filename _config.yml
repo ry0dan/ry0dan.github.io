@@ -20,7 +20,7 @@ title                    : "Motawkkel Abdulrhman [ry0d4n]"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Motawkkel Abdulrhman"
-description              : "Malware Analysis Professional, Digital Forensics Investigator<br><<a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+description              : "Malware Analysis Professional, Digital Forensics Investigator"
 "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
